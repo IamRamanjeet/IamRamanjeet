@@ -14,7 +14,6 @@ Building and documenting **game design projects in Unreal Engine**, with a focus
 
 ### 📫 Reach me
 
-**LinkedIn:** [Ramanjeet Arneja]([www.linkedin.com/in/ramanjeetarneja])
-**Portfolio:** [View my portfolio]([https://hiramanjeet3d.framer.website/])
+**[Portfolio](https://hiramanjeet3d.framer.website/)** · **[LinkedIn](https://www.linkedin.com/in/ramanjeetarneja)**
 
 **IamRamanjeet/IamRamanjeet**
